@@ -6,3 +6,6 @@ npm install
 
 running :
 npm run dev
+
+link deploy :
+https://cmlabs-frontend-fulltime-test-guexkzo15-rahmathidayatullah.vercel.app/ingredients
